@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-- I’m currently working on `tbd_SocNavBenchmark` with researchers in [TBD](https://tbd.ri.cmu.edu/) and [HARP](http://harp.ri.cmu.edu/) labs at CMU's Robotics Institute
+- I’m currently working on [`tbd_SocNavBenchmark`](https://github.com/CMU-TBD/tbd_SocNavBenchmark) with researchers in [TBD](https://tbd.ri.cmu.edu/) and [HARP](http://harp.ri.cmu.edu/) labs at CMU's Robotics Institute
 - I’m currently studying `Artificial Intelligence` and `Computer Science` at [CMU SCS](https://www.cs.cmu.edu/)
 - Personal website: [https://www.andrew.cmu.edu/user/gsilvera/](https://www.andrew.cmu.edu/user/gsilvera/)
 - How to reach me: [grs5382@gmail.com](mailto:grs5382@gmail.com), [gustavo.r.silvera@gmail.com](mailto:gustavo.r.silvera@gmail.com)
