@@ -6,7 +6,7 @@
 [![num_commits](https://badges.pufler.dev/commits/monthly/gustavosilvera/?style=for-the-badge)](https://badges.pufler.dev)
 
 
-- I'm currently working on a project with the UE4 [Carla](https://carla.org/) Driving Simulator for a user study on VR-based assistive driving.
+- I'm currently working on a project with the UE4 [Carla](https://carla.org/) Driving Simulator for a user study on VR-based assistive driving as a part of CMU RI's [HARP](http://harp.ri.cmu.edu/) Lab.
 - I'm currently scheduled to work for [Facebook](https://www.facebook.com/careers/) as a Summer 2021 Software Intern.
 - I recently finished working on [`SocNavBench`](https://github.com/CMU-TBD/SocNavBench) with researchers in [TBD](https://tbd.ri.cmu.edu/) and [HARP](http://harp.ri.cmu.edu/) labs at CMU's Robotics Institute.
 - I'm currently studying [`Artificial Intelligence`](https://www.cs.cmu.edu/bs-in-artificial-intelligence) and [`Computer Science`](https://www.cs.cmu.edu/) at [CMU SCS](https://www.cs.cmu.edu/).
