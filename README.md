@@ -3,6 +3,7 @@
 [![email](https://img.shields.io/badge/-grs5382@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:grs5382@gmail.com)](mailto:grs5382@gmail.com) 
 [![linkedin](https://img.shields.io/badge/-@gustavosilvera-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/gustavosilvera/) 
 [![num_visits](https://badges.pufler.dev/visits/gustavosilvera/gustavosilvera?style=for-the-badge)](https://badges.pufler.dev)
+[![num_commits](https://badges.pufler.dev/commits/monthly/gustavosilvera/?style=for-the-badge)](https://badges.pufler.dev)
 
 
 - I'm currently working on a project with the UE4 [Carla](https://carla.org/) Driving Simulator for a user study on VR-based assistive driving.
