@@ -6,10 +6,9 @@
 [![num_commits](https://badges.pufler.dev/commits/monthly/gustavosilvera/?style=for-the-badge)](https://badges.pufler.dev)-->
 
 
-- I'm currently working on a project with the UE4 [Carla](https://carla.org/) driving simulator for a user study on VR-based assistive driving as a part of CMU RI's [HARP](http://harp.ri.cmu.edu/) Lab.
-- I'm currently scheduled to work for [Facebook](https://www.facebook.com/careers/) as a Summer 2022 Software Intern.
-- I recently finished working on [`SocNavBench`](https://github.com/CMU-TBD/SocNavBench) with researchers in [TBD](https://tbd.ri.cmu.edu/) and [HARP](http://harp.ri.cmu.edu/) labs at CMU's Robotics Institute.
-- I'm currently studying [`Artificial Intelligence`](https://www.cs.cmu.edu/bs-in-artificial-intelligence) and [`Computer Science`](https://www.cs.cmu.edu/) at [CMU SCS](https://www.cs.cmu.edu/).
+- I'm currently working on HRI research using [`DReyeVR`](https://github.com/HARPLab/DReyeVR) in CMU [HARP Lab](http://harp.ri.cmu.edu/).
+- I can help with any and all [`DReyeVR`](https://github.com/HARPLab/DReyeVR)/[`Carla`](https://github.com/carla-simulator/carla) architecture related questions.
+- I recently finished working on [`SocNavBench`](https://github.com/CMU-TBD/SocNavBench).
 - Personal website: [https://www.andrew.cmu.edu/user/gsilvera/](https://www.andrew.cmu.edu/user/gsilvera/)
 - How to reach me: [grs5382@gmail.com](mailto:grs5382@gmail.com), [gustavo.r.silvera@gmail.com](mailto:gustavo.r.silvera@gmail.com).
 
