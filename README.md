@@ -7,7 +7,7 @@
 
 
 - I'm currently working on HRI research using [`DReyeVR`](https://github.com/HARPLab/DReyeVR) in CMU [HARP Lab](http://harp.ri.cmu.edu/).
-- I can help with any and all [`DReyeVR`](https://github.com/HARPLab/DReyeVR)/[`Carla`](https://github.com/carla-simulator/carla) architecture related questions.
+- I am happy to help with [`DReyeVR`](https://github.com/HARPLab/DReyeVR)/[`Carla`](https://github.com/carla-simulator/carla) related questions.
 - I recently finished working on [`SocNavBench`](https://github.com/CMU-TBD/SocNavBench).
 - Personal website: [https://www.andrew.cmu.edu/user/gsilvera/](https://www.andrew.cmu.edu/user/gsilvera/)
 - How to reach me: [grs5382@gmail.com](mailto:grs5382@gmail.com), [gustavo.r.silvera@gmail.com](mailto:gustavo.r.silvera@gmail.com).
