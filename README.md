@@ -6,9 +6,9 @@
 [![num_commits](https://badges.pufler.dev/commits/monthly/gustavosilvera/?style=for-the-badge)](https://badges.pufler.dev)-->
 
 
-- I'm currently working on HRI research using [`DReyeVR`](https://github.com/HARPLab/DReyeVR) in CMU [HARP Lab](http://harp.ri.cmu.edu/).
+- I'm currently working on HRI research using [`DReyeVR`](https://github.com/HARPLab/DReyeVR) (🤖 + 🚙 + 👀) in CMU [HARP Lab](http://harp.ri.cmu.edu/).
 - I am happy to help with [`DReyeVR`](https://github.com/HARPLab/DReyeVR)/[`Carla`](https://github.com/carla-simulator/carla) related questions.
-- I recently finished working on [`SocNavBench`](https://github.com/CMU-TBD/SocNavBench).
+- I recently finished working on [`SocNavBench`](https://github.com/CMU-TBD/SocNavBench) and can help with that too.
 - Personal website: [https://www.andrew.cmu.edu/user/gsilvera/](https://www.andrew.cmu.edu/user/gsilvera/)
 - How to reach me: [grs5382@gmail.com](mailto:grs5382@gmail.com), [gustavo.r.silvera@gmail.com](mailto:gustavo.r.silvera@gmail.com).
 
