@@ -9,8 +9,8 @@
 - Currently researching how to improve driving assistance with driver eye gaze using [`DReyeVR`](https://github.com/HARPLab/DReyeVR) as part of my Senior Thesis @ CMU. Advised by Dr. Henny Admoni from [HARP Lab](http://harp.ri.cmu.edu/) @ CMU. 
 - Ping me for help with [`DReyeVR`](https://github.com/HARPLab/DReyeVR)/[`Carla`](https://github.com/carla-simulator/carla)/[`SocNavBench`](https://github.com/CMU-TBD/SocNavBench) related questions.
 
-- Personal website: [https://www.andrew.cmu.edu/user/gsilvera/](https://www.andrew.cmu.edu/user/gsilvera/)
-- How to reach me: [grs5382@gmail.com](mailto:grs5382@gmail.com), [gustavo.r.silvera@gmail.com](mailto:gustavo.r.silvera@gmail.com).
+- Personal website: [www.andrew.cmu.edu/user/gsilvera/](https://www.andrew.cmu.edu/user/gsilvera/)
+- How to reach me: [`gustavo@silvera.cloud`](mailto:gustavo@silvera.cloud)
 
 <!--
 **GustavoSilvera/GustavoSilvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
