@@ -9,6 +9,8 @@
 - Currently researching how to improve driving assistance with driver eye gaze using [`DReyeVR`](https://github.com/HARPLab/DReyeVR) as part of my Senior Thesis @ CMU. Advised by Dr. Henny Admoni from [HARP Lab](http://harp.ri.cmu.edu/) @ CMU. 
 - Ping me for help with [`DReyeVR`](https://github.com/HARPLab/DReyeVR)/[`Carla`](https://github.com/carla-simulator/carla)/[`SocNavBench`](https://github.com/CMU-TBD/SocNavBench) related questions.
 
+- 2x Facebook/Meta SWE intern in Infrastructure & XR Holograms. 
+
 - Personal website: [www.andrew.cmu.edu/user/gsilvera/](https://www.andrew.cmu.edu/user/gsilvera/)
 - How to reach me: [`gustavo@silvera.cloud`](mailto:gustavo@silvera.cloud)
 
