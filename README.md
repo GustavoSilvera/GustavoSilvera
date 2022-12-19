@@ -5,14 +5,13 @@
 <!--[![num_visits](https://badges.pufler.dev/visits/gustavosilvera/gustavosilvera?style=for-the-badge)](https://badges.pufler.dev)
 [![num_commits](https://badges.pufler.dev/commits/monthly/gustavosilvera/?style=for-the-badge)](https://badges.pufler.dev)-->
 
+I like systems, graphics, & AI!
 
-- Currently researching how to improve driving assistance with driver eye gaze using [`DReyeVR`](https://github.com/HARPLab/DReyeVR) as part of my Senior Thesis @ CMU. Advised by Dr. Henny Admoni from [HARP Lab](http://harp.ri.cmu.edu/) @ CMU. 
-- Ping me for help with [`DReyeVR`](https://github.com/HARPLab/DReyeVR)/[`Carla`](https://github.com/carla-simulator/carla)/[`SocNavBench`](https://github.com/CMU-TBD/SocNavBench) related questions.
+Currently maintaining the [DReyeVR](https://github.com/harplab/DReyeVR) project (VR driving simulator), happy to take questions!
 
-- 2x Facebook/Meta SWE intern in Infrastructure & XR Holograms. 
+Personal website: [www.andrew.cmu.edu/user/gsilvera/](https://www.andrew.cmu.edu/user/gsilvera/)
 
-- Personal website: [www.andrew.cmu.edu/user/gsilvera/](https://www.andrew.cmu.edu/user/gsilvera/)
-- How to reach me: [`gustavo@silvera.cloud`](mailto:gustavo@silvera.cloud)
+How to reach me: [`gustavo@silvera.cloud`](mailto:gustavo@silvera.cloud)
 
 <!--
 **GustavoSilvera/GustavoSilvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
