@@ -7,7 +7,7 @@
 
 I like systems, graphics, & AI!
 
-Currently maintaining the [DReyeVR](https://github.com/harplab/DReyeVR) project (VR driving simulator), happy to take questions!
+Currently working on simulation technologies at Tesla Autopilot.
 
 Personal website: [www.andrew.cmu.edu/user/gsilvera/](https://www.andrew.cmu.edu/user/gsilvera/)
 
