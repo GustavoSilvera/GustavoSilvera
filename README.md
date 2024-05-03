@@ -9,7 +9,7 @@ I like systems, graphics, & AI!
 
 Currently working on FSD simulation technologies at Tesla Autopilot.
 
-Personal website: [[gustavosilvera.github.io](https://gustavosilvera.github.io/)](https://gustavosilvera.github.io/)
+Personal website: [https://gustavosilvera.github.io](https://gustavosilvera.github.io/)
 
 <!--
 **GustavoSilvera/GustavoSilvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
