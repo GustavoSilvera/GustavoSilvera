@@ -9,7 +9,7 @@ I like systems, graphics, & AI!
 
 Currently working on FSD simulation technologies at Tesla Autopilot.
 
-Personal website: [www.andrew.cmu.edu/user/gsilvera/](https://www.andrew.cmu.edu/user/gsilvera/)
+Personal website: gustavosilvera.github.io
 
 <!--
 **GustavoSilvera/GustavoSilvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
