@@ -5,9 +5,7 @@
 <!--[![num_visits](https://badges.pufler.dev/visits/gustavosilvera/gustavosilvera?style=for-the-badge)](https://badges.pufler.dev)
 [![num_commits](https://badges.pufler.dev/commits/monthly/gustavosilvera/?style=for-the-badge)](https://badges.pufler.dev)-->
 
-I like systems, graphics, & AI!
-
-Currently working on FSD simulation technologies at Tesla Autopilot.
+I like systems, graphics, simulation, & AI!
 
 Personal website: [https://gustavosilvera.github.io](https://gustavosilvera.github.io/)
 
